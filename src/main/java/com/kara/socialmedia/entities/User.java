@@ -14,6 +14,6 @@ public class User {
     @Id
     Long id;
     String userName;
-    String lastName;
+    String password;
 
 }
