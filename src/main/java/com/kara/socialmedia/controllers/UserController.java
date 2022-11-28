@@ -1,7 +1,6 @@
 package com.kara.socialmedia.controllers;
 
 import com.kara.socialmedia.entities.User;
-import com.kara.socialmedia.repositories.UserRepository;
 import com.kara.socialmedia.services.UserService;
 import org.springframework.web.bind.annotation.*;
 
